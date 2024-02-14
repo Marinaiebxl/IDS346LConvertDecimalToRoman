@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDS346LConvertDecimalToRoman", "IDS346LConvertDecimalToRoman.csproj", "{4CCADA45-A888-4F5B-A3AD-1BD79D6E2874}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecimalRomanTests", "..\DecimalRomanTests\DecimalRomanTests.csproj", "{4A41D7E6-A8B4-412A-813B-5CEA5F70D54A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4CCADA45-A888-4F5B-A3AD-1BD79D6E2874}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CCADA45-A888-4F5B-A3AD-1BD79D6E2874}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CCADA45-A888-4F5B-A3AD-1BD79D6E2874}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A41D7E6-A8B4-412A-813B-5CEA5F70D54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A41D7E6-A8B4-412A-813B-5CEA5F70D54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A41D7E6-A8B4-412A-813B-5CEA5F70D54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A41D7E6-A8B4-412A-813B-5CEA5F70D54A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
